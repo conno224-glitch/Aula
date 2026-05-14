@@ -18,3 +18,6 @@ int main(void) {
 	return 0;
  }
  
+//	int num;
+//	std::cin >> num;
+//	vet[2] = num;
