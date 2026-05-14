@@ -19,10 +19,6 @@ for (int i = 0; i < 5; i++) {
 }
 printf("\nMedia da turma: %.2f\n", media);
 printf("Quantidade de notas acima da media: %d\n", acimadamedia);
-
-
-
-
-
+	
 	return 0;
  }
