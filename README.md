@@ -19,8 +19,3 @@
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-
-## 📈 Objetivos
-- Melhorar minha lógica de programação
-- Aprender desenvolvimento de sistemas
-- Evoluir como desenvolvedor
